@@ -6,4 +6,4 @@
 [![Hugo Badge](https://img.shields.io/badge/-Blog-orange?logo=Hugo&logoColor=white)](https://lucasfadriano.dev) 
 [![Email Badge](https://img.shields.io/badge/-lucas.f.adriano@hotmail.com-orange?logo=minutemailer&logoColor=white&link=mailto:lucas.f.adriano@hotmail.com)](mailto:lucas.f.adriano@hotmail.com)
 
-Passionate about solving problems and learn new things. 
+Passionate about solving problems and learning new things. 
